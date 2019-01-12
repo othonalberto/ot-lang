@@ -1,0 +1,10 @@
+main() {
+
+ 	var x = 5 / 3;
+ 	var y;
+ 	
+ 	y loop 0 10 1 {
+ 		print y;
+ 	}
+    
+}
